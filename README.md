@@ -24,6 +24,7 @@ Program sederhana berbasis Python untuk mengelola data buku menggunakan struktur
 ![Menu 3](./Output3.png)
 
 4. Menu Hapus Data Penerbit
+   
 ![Menu 4](./Output4.png)
 
 5. Menu Keluar Program
