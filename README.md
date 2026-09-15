@@ -14,14 +14,18 @@ Program sederhana berbasis Python untuk mengelola data buku menggunakan struktur
 1. Menu Tampilkan Data Buku
    
 ![Menu 1](./Output1.png)
-3. Menu Tambah Data Penerbit
+
+2. Menu Tambah Data Penerbit
 
 ![Menu 2](./Output2.png)
-4. Menu Ubah Data Penulis
+
+3. Menu Ubah Data Penulis
 
 ![Menu 3](./Output3.png)
-5. Menu Hapus Data Penerbit
+
+4. Menu Hapus Data Penerbit
 ![Menu 4](./Output4.png)
-6. Menu Keluar Program
+
+5. Menu Keluar Program
 
 ![Menu 5](./Output5.png)
